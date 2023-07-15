@@ -1,0 +1,18 @@
+header{
+width: auto;
+height: 65px;
+flex-shrink: 0;
+background: linear-gradient(90deg, #672280 0%, #A626D3 100%);
+border-top-left-radius: 5px;
+border-top-right-radius: 5px;
+display: flex;
+}
+.TrollFace{
+    width: 31.306px;
+height: 26.218px;
+flex-shrink: 0;
+margin: 20px 7px 20px 20px;
+}
+b{
+    margin: 20px 0;
+}

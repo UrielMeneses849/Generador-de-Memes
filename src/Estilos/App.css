@@ -1,0 +1,12 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.contenedor--gral{
+  width: 550px;
+height: 550px;
+background-color: #fafafa;
+border-radius: 5px;
+}
